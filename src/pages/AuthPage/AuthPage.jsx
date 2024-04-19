@@ -16,7 +16,7 @@ const AuthPage = () => {
       <Container maxW={"container.md"} padding={0}>
         <Flex justifyContent={"center"} alignItems={"center"} gap={10} >
           <Box display={{ base: "none", md: "block" }}>
-            <Image h={650} src="/public/auth.png" />
+            <Image h={650} src="/auth.png" />
           </Box>
           <VStack spacing={4} align={"stretch"}>
           <AuthForm />
