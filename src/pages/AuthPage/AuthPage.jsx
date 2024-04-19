@@ -23,8 +23,8 @@ const AuthPage = () => {
           <Box textAlign={"center"}>
             Get the app
             <Flex gap={5} justifyContent={"center"}>
-              <Image src="/public/playstore.png" h={10} />
-              <Image src="/public/microsoft.png" h={10} />
+              <Image src="/playstore.png" h={10} />
+              <Image src="/microsoft.png" h={10} />
             </Flex>
           </Box>
         </VStack>
