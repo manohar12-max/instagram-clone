@@ -50,7 +50,7 @@ const Sidebar = () => {
   //       <Avatar
   //         size={"sm"}
   //         name="Manohar Dhumal"
-  //         src="/public/profilepic.png"
+  //         src="/profilepic.png"
   //       />
   //     ),
   //     text: "Profile",
