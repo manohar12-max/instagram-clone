@@ -20,7 +20,7 @@ const AuthForm = () => {
     <>
       <Box border={"1px solid gray"} borderRadius={4} padding={5}>
         <VStack>
-          <Image src="/public/logo.png" cursor={"pointer"} alt="Instagram" />
+          <Image src="/logo.png" cursor={"pointer"} alt="Instagram" />
          
          {isLogIn ? <Login/>:<Signup/>}
          
